@@ -1,0 +1,48 @@
+*{
+  margin:0;
+}
+
+.container{
+  width: 1024px;
+  margin:auto;
+}
+
+/* HEADER */
+.back-img{
+  height: 100px;
+  background-color: deepskyblue;
+  background-image: url(pattern.png);
+  background-size: contain;
+}
+
+.logo{
+  width:200px;
+  height: 50px;
+  line-height: 150px;
+  margin-left: 50px;
+}
+
+#title{
+  margin-top: 20px;
+}
+
+.autore{
+  font-size: 15px;
+  color: grey;
+}
+
+div span{
+  color:deepskyblue;
+}
+
+.date{
+  color: grey;
+  font-size: 10px;
+}
+.tim-img{
+  margin-top: 20px;
+}
+.tim-img p{
+  font-size: 10px;
+}
+/* FINE HEADER */
